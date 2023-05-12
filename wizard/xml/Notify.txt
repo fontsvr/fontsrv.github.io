@@ -1,6 +1,6 @@
 1
 |||
-[COLOR lime][B]BUILD Y PARCHE GTKING PRIME[/B][/COLOR]
+[COLOR lime][B]BUILD Y PARCHE fontsVR PRIME[/B][/COLOR]
 - [COLOR darkorchid][B]Si os salta una Notificación de actualización pulsar en[/B][/COLOR] [COLOR dodgerblue][B]ACTUALIZAR[/B][/COLOR]
 
 - [COLOR red][B]ATENCIÓN:[/B][/COLOR] [COLOR white]Si pulsas en[/COLOR] [COLOR green][B]Instalar Build[/B][/COLOR] [COLOR white]es instalar desde 0.[/COLOR]
@@ -22,7 +22,7 @@
 - Añadido addon Vilhao
 - Añadidos iconos del tiempo en la esquina sup. dcha.
 - Eliminado addon Oldqueen.
-- Eliminado addon Kelebek (Nueva versión en el repositorio Repo GTKing). 
+- Eliminado addon Kelebek (Nueva versión en el repositorio Repo fontsVR). 
 - Redirigido atajo HD Torrents de Peliculas. 
 - Redirigido widget "Pelis Destacadas" por "Peliculas HD 1080" en películas.
 - Desactivado widget "Pelotazos" en Series.
@@ -58,7 +58,7 @@
 - Arreglados varios widgets de ambas builds.[/COLOR]
 
 [COLOR gold]14/11/2020 Nueva actualización v3.6.0 y Parche 3.6.1[/COLOR]
-[COLOR white]- Añadido el motor torrent Elementum en el menú de builds y parches de GTKing Wizard.
+[COLOR white]- Añadido el motor torrent Elementum en el menú de builds y parches de fontsVR Wizard.
 - Añadido addon Palantir 2 con iconos abstractos.
 - Añadida sección Chopo Footters.
 - Añadido servicio de subtitulos de OpenSubtitles.
@@ -66,7 +66,7 @@
 - Cambiados colores del texto de algunos addons desde la skin para visualizarlos mejor.[/COLOR]
 
 [COLOR gold]14/11/2020 Estreno build GTactil King.[/COLOR]
-[COLOR white]- Iniciada la versión táctil de la build GTKing Prime.[/COLOR]
+[COLOR white]- Iniciada la versión táctil de la build fontsVR Prime.[/COLOR]
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
  
@@ -75,6 +75,6 @@
 - Ayuda Sobre kodi[/COLOR]
  
  
-[COLOR dodgerblue]https://t.me/beelinkking[/COLOR]
+[COLOR dodgerblue]https://t.me/fontsVR[/COLOR]
  
-[COLOR lime][B]GRACIAS POR UTILIZAR GTKING PRIME![/B][/COLOR]
+[COLOR lime][B]GRACIAS POR UTILIZAR fontsVR PRIME![/B][/COLOR]

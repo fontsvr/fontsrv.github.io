@@ -1,8 +1,8 @@
 name="Buffer GTKing Kodi 18"
 section="yes"
 url="https://fontsvr.github.io/wizard/xml/Buffer-leia.txt"
-icon="https://i.imgur.com/78LMRnT.png" 
-fanart="https://i.imgur.com/jtTx5ME.jpg"
+icon="https://res.cloudinary.com/dsmvomgrd/image/upload/v1683917620/build/icon_buffer.png" 
+fanart="https://res.cloudinary.com/dsmvomgrd/image/upload/v1683916693/build/buffer.jpg"
 description="Kodi 18 Leia"
 
 

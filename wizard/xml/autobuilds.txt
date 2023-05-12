@@ -1,6 +1,6 @@
-id="plugin.program.gtking.zip"
-version="2.2.8"
-zip="https://github.com/fontsvr/fontsvr.github.io/tree/master/addons.de.programa/"
+id="plugin.program.RikTeam.zip"
+version="3.2"
+zip="https://github.com/fontsvr/repo-fontsVR/tree/main/zips/repository.fontsvr"
 
 name="GTKING PRIME" 
 version="3.9.0"

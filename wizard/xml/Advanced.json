@@ -1,12 +1,12 @@
 {
     "presets": [
         {
-            "name": "[COLOR red]Buffer Kodi 19 Matrix[/COLOR]",
+            "name": "[COLOR red]Buffer Kodi 19 Matrix y Nexus 20[/COLOR]",
             "section": true,
             "url": "https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/master/wizard/xml/Advance-Matrix.json",
-            "icon": "https://i.imgur.com/PLTO2lP.png",
-            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
-            "description": "Diferentes ajustes de buffer para Kodi 19 Matrix."
+            "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683917620/build/icon_buffer.png",
+            "fanart": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683916693/build/buffer.jpg",
+            "description": "Diferentes ajustes de buffer para Kodi 19 Matrix y Nexus 20."
          }
     ]
 }
