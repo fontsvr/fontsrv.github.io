@@ -1,7 +1,7 @@
 {
     "presets": [
         {
-            "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
+            "name": "[B][COLOR azure]Por ROM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/master/wizard/buffer/ROM.xml",
             "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683917620/build/icon_buffer.png",
@@ -44,7 +44,7 @@
 
             "name": "[B][COLOR dodgerblue]GTK[COLOR white]Buf [COLOR lime]de RAM [COLOR white]Todo en Uno[/COLOR][/B]",
             "section": false,
-            "url": "https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/master/wizard/buffer/Buffer-Ram.xml",
+            "url": "https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/master/wizard/buffer/GTKingBuffer-Ram.xml",
             "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683917620/build/icon_buffer.png",
             "fanart": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683916693/build/buffer.jpg",
             "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
