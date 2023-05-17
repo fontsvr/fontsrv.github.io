@@ -1,6 +1,6 @@
 id="plugin.program.RikTeamNex"
-version="1.0"
-zip="https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/plugin.program.RikTeam/plugin.program.RikTeamNex-1.0.zip"
+version="1.0.0"
+zip="https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/plugin.program.RikTeam/plugin.program.RikTeamNex-1.0.0.zip"
 
 name="Build RikTeam17523"
 version="1.0"
