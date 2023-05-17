@@ -1,10 +1,10 @@
-id="plugin.program.RikTeam"
-version="3.4"
-zip="https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/plugin.program.RikTeam/plugin.program.RikTeam-3.4.zip"
-
-name="Build RikTeam14523"
+id="plugin.program.RikTeamNex"
 version="1.0"
-url="https://github.com/fontsvr/repo-fontsVR/raw/rel/Build.RikTeam14523.zip"
+zip="https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/plugin.program.RikTeam/plugin.program.RikTeamNex-1.0.zip"
+
+name="Build RikTeam17523"
+version="1.0"
+url="https://github.com/fontsvr/repo-fontsVR/raw/rel/Build.RikTeam17523.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
