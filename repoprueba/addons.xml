@@ -36,9 +36,9 @@
 <addon id="repository.prueba" name="[COLOR gold]Repositorio Prueba[/COLOR]" version="1.0.0" provider-name="Prueba">
     <extension point="xbmc.addon.repository" name="Repo Prueba">
     	<dir minversion="18.9.0">
-    	    <info compressed="false">https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml</info>
-		    <checksum>https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml.md5</checksum>
-		    <datadir zip="true">https://raw.githubusercontent.com/Palantiraddon/repo/master/Palantir/</datadir>
+    	    <info compressed="false">https://github.com/fontsvr/fontsvr.github.io/raw/main/repoprueba/addons.xml</info>
+		    <checksum>https://github.com/fontsvr/fontsvr.github.io/raw/main/repoprueba/addons.xml.md5</checksum>
+		    <datadir zip="true">https://github.com/fontsvr/fontsvr.github.io/raw/main/repoprueba/</datadir>
 	    </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
