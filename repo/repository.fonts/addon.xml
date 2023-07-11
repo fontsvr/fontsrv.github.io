@@ -3,9 +3,9 @@
     
 	<extension point="xbmc.addon.repository" name="[B[COLOR white]Repo FONTS[/B][/COLOR]">
         <dir>
-		<info compressed="false">https://github.com/fontsvr/fontsvr.github.io/raw/main/repo/zips/addons.xml</info>
-        <checksum>https://github.com/fontsvr/fontsvr.github.io/raw/main/repo/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/fontsvr/fontsvr.github.io/raw/main/repo/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/main/repo/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/main/repo/zips/addons.xml.md5</checksum>
+        <datadir zip="true">hhttps://raw.githubusercontent.com/fontsvr/fontsvr.github.io/main/repo/zips/</datadir>
 		</dir>
     </extension>
 	
