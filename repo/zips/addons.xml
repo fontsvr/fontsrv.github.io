@@ -1022,7 +1022,7 @@ provider-name="jurialmunkey">
         <dir>
 		<info compressed="false">https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/main/repo/zips/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/main/repo/zips/addons.xml.md5</checksum>
-        <datadir zip="true">hhttps://raw.githubusercontent.com/fontsvr/fontsvr.github.io/main/repo/zips/</datadir>
+        <datadir zip="true">https://raw.githubusercontent.com/fontsvr/fontsvr.github.io/main/repo/zips/</datadir>
 		</dir>
     </extension>
 
