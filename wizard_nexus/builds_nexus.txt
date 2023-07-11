@@ -28,6 +28,6 @@ fanart="https://fontsvr.github.io/wizard/jpg/VR20Aeon_fanart_bg.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="[COLOR azure][B]VR[/COLOR]Aeon [COLOR limegreen]MATRIX[COLOR white]|[COLOR violet]NEXUS[/B][/COLOR] para [COLOR teal][B]KODI 19.x i 20.x[/B][/COLOR] 
+description="[COLOR azure][B]VR20_Aeon[/COLOR] para [COLOR teal][B]KODI 19.x i 20.x[/B][/COLOR] 
                   [COLOR dodgerblue][B]Developers:[/B][/COLOR] [B]Rik Team[/B]"
 				  
