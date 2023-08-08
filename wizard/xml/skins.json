@@ -4,7 +4,7 @@
       "name": "VR20 Aeon",
       "type": "addon",
       "section": false,
-      "plugin": "skin.embuary.stva",
+      "plugin": "skin.aeon.nox.silvo",
       "url": "https://github.com/fontsvr/repo-fontsVR/raw/rel/VR20Aeon.zip",
       "repository": "repository.fontsVR",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/addons.xml",
