@@ -1,4 +1,4 @@
-id="plugin.program.RikTeamNex"
+id="plugin.program.rikteamwiz"
 version="1.0.0"
 zip="https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/plugin.program.RikTeam/plugin.program.RikTeamNex-1.0.0.zip"
 
