@@ -1,7 +1,7 @@
 {
   "addons": [
     {
-      "name": "VR20 Aeon",
+      "name": "VR20 Aeon w/o Repository",
       "type": "addon",
       "section": false,
       "plugin": "skin.aeon.nox.silvo",
@@ -11,10 +11,10 @@
       "repositoryurl": "",
       "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683640927/build/fandrart.png",
       "adult": false,
-      "description": "Skin Wizard. [COLOR blue]+info: fontsvr.github.io[/COLOR]"
+      "description": "Skin Wizard. +info: fontsvr.github.io"
     },
     {
-      "name": "Cristal Touch",
+      "name": "Cristal Touch w/o Repository",
       "type": "addon",
       "section": false,
       "plugin": "skin.ctouch",
@@ -24,7 +24,7 @@
       "repositoryurl": "",
       "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683640927/build/fandrart.png",
       "adult": false,
-      "description": "Skin Wizard. [COLOR blue]+info: fontsvr.github.io[/COLOR]"
+      "description": "Skin Wizard+info: fontsvr.github.io"
     }
   ]
 }
