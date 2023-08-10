@@ -25,6 +25,12 @@
       "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683640927/build/fandrart.png",
       "adult": false,
       "description": "Skin Wizard+info: fontsvr.github.io"
+    },
+    {
+      "name": "Example Section",
+      "section": true,
+      "url": "url.to.json",
+      "description": "An Example Section."
     }
   ]
 }
