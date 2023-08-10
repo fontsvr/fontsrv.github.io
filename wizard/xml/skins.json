@@ -5,13 +5,13 @@
       "type": "addon",
       "section": false,
       "plugin": "skin.aeon.nox.silvo",
-      "url": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/skin.aeon.nox.silvo",
-      "repository": "repository.rebase",
-      "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
-      "repositoryurl": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/",
-      "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683640927/build/fandrart.png",
+      "url": "https://github.com/fontsvr/nexus/raw/master/repo/zips/skin.aeon.nox.silvo/skin.aeon.nox.silvo-9.9.9.zip",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
+      "icon": "",
       "adult": false,
-      "description": "Skin Wizard. +info: fontsvr.github.io"
+      "description": "Skin Aeon VR20 +info: fontsvr.github.io"
     }
   ]
 }

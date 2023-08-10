@@ -19,9 +19,9 @@
       "section": false,
       "plugin": "skin.ctouch",
       "url": "https://github.com/fontsvr/repo-fontsVR/raw/rel/ctouch.zip",
-      "repository": "repository.fontsVR",
-      "repositoryxml": "https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/addons.xml",
-      "repositoryurl": "https://github.com/fontsvr/repo-fontsVR/raw/main/addons/zips/repository.fontsvr/repository.fontsvr-1.0.zip",
+      "repository": "repository.rebase",
+      "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
+      "repositoryurl": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/",
       "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683640927/build/fandrart.png",
       "adult": false,
       "description": "Skin Wizard. [COLOR blue]+info: fontsvr.github.io[/COLOR]"
