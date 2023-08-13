@@ -1,6 +1,6 @@
-id="plugin.program.rikteam"
-version="3.3"
-zip="https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/plugin.program.rikteam/plugin.program.rikteam-3.3.zip"
+id="plugin.program.rikteamwiz"
+version="1.0.0"
+zip="https://raw.githubusercontent.com/fontsvr/repo-fontsVR/main/addons/zips/plugin.program.rikteamwiz/plugin.program.rikteamwiz-1.0.0.zip"
 
 name="20.1_VR20_Aeon"
 version="1.0"
