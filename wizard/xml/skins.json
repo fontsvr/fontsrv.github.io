@@ -1,6 +1,19 @@
 {
   "addons": [
     {
+      "name": "VR20 Aeon",
+      "type": "addon",
+      "section": false,
+      "plugin": "skin.aeon.nox.silvo",
+      "url": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/skin.aeon.nox.silvo/skin.aeon.nox.silvo-9.9.9.zip",
+      "repository": "repository.rebase",
+      "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
+      "repositoryurl": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/repository.rebase/repository.rebase-1.0.zip?raw=true",
+      "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683640927/build/fandrart.png",
+      "adult": false,
+      "description": "Skin Wizard VRAeon +info: fontsvr.github.io"
+    },
+	{
       "name": "VR20 Aeon w/o Repository",
       "type": "addon",
       "section": false,
