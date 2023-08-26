@@ -18,7 +18,7 @@
       "type": "addon",
       "section": false,
       "plugin": "skin.ctouch",
-      "url": "https://github.com/fontsvr/nexus/master/repo/zips/skin.ctouch/skin.ctouch-9.3.4.3.zip?raw=true",
+      "url": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/skin.ctouch/skin.ctouch-9.3.4.3.zip",
       "repository": "repository.rebase",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/nexus/blob/master/repo/zips/repository.rebase/repository.rebase-1.0.zip?raw=true",
