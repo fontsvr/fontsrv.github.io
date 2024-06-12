@@ -22,7 +22,7 @@
       "repository": "repository.rebase",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/nexus/blob/master/repo/zips/repository.rebase/repository.rebase-1.0.zip?raw=true",
-      "icon": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1683640927/build/fandrart.png",
+      "icon": "https://asset.cloudinary.com/dsmvomgrd/da8173f9b06ab68af9bd04d4b3c355c1",
       "adult": false,
       "description": "Skin Wizard - skin.ctouch-9.3.4.3  + info: fontsvr.github.io"
     }

@@ -48,9 +48,9 @@
       "repository": "repository.rebase",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/nexus/raw/master/repo/zips/repository.rebase/repository.rebase-1.0.zip?raw=true",
-      "icon": "https://stva.es/wp-content/uploads/2023/08/skin-logo-big.png",
+      "icon": "https://asset.cloudinary.com/dsmvomgrd/da8173f9b06ab68af9bd04d4b3c355c1",
       "adult": false,
-      "description": "Skin Wizard. [COLOR orange]+info:[/COLOR] stva.es/skin-cristal-touch"
+      "description": "Skin Wizard - skin.ctouch-9.3.4.3  + info: fontsvr.github.io"
     }
   ]
 }
