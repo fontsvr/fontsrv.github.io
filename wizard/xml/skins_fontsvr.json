@@ -24,7 +24,7 @@
       "repositoryurl": "https://github.com/fontsvr/omega/blob/master/repo/zips/repository.fontsvr/repository.fontsvr-2.0.zip?raw=true",
       "icon": "https://asset.cloudinary.com/dsmvomgrd/5bf51d29f3375597336625d6bd6284f2",
       "adult": false,
-      "description": "Skin VR21 - mod skin.aeon.nox.silvo-21.0.1  + info: https://github.com/fontsvr/omega/"
+      "description": "Skin VR21 - skin.aeon.nox.silvo-21.0.1  + info: https://github.com/fontsvr/omega/"
     },
     {
       "name": "Aeon Nox 5 (fontsvr)",
@@ -37,7 +37,7 @@
       "repositoryurl": "https://github.com/fontsvr/omega/blob/master/repo/zips/repository.fontsvr/repository.fontsvr-2.0.zip?raw=true",
       "icon": "https://asset.cloudinary.com/dsmvomgrd/5d429273e1d407723e0ea1ff4076ca9e",
       "adult": false,
-      "description": "Skin - mod skin.aeon.nox.5.fontsvr-21.0.1  + info: https://github.com/fontsvr/omega/"
+      "description": "Skin - skin.aeon.nox.5.fontsvr-21.0.1  + info: https://github.com/fontsvr/omega/"
     },
     {
       "name": "Cristal Touch (fontsvr)",
@@ -50,7 +50,7 @@
       "repositoryurl": "https://github.com/fontsvr/omega/blob/master/repo/zips/repository.fontsvr/repository.fontsvr-2.0.zip?raw=true",
       "icon": "https://asset.cloudinary.com/dsmvomgrd/6cbd1c42082bf3d145f0b83acdfda4c1",
       "adult": false,
-      "description": "Skin Wizard - Mod skin.ctouch.fontsvr-9.3.4.3  + info: https://github.com/fontsvr/omega/"
+      "description": "Skin Wizard - skin.ctouch.fontsvr-9.3.4.3  + info: https://github.com/fontsvr/omega/"
     },
     {
       "name": "Cristal Touch",
@@ -61,9 +61,9 @@
       "repository": "repository.rebase",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/nexus/raw/master/repo/zips/repository.rebase/repository.rebase-1.0.zip?raw=true",
-      "icon": "https://asset.cloudinary.com/dsmvomgrd/31eee1d5509f6b3b2bbc76692afd5acc",
+      "icon": "https://asset.cloudinary.com/dsmvomgrd/da8173f9b06ab68af9bd04d4b3c355c1",
       "adult": false,
-      "description": "Skin Wizard - Mod skin.ctouch-9.3.4.3  + info: https://github.com/fontsvr/nexus/"
+      "description": "Skin Wizard - skin.ctouch-9.3.4.3  + info: https://github.com/fontsvr/nexus/"
     }
   ]
 }
