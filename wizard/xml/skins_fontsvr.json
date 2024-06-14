@@ -9,7 +9,7 @@
       "repository": "repository.fontsvr",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/omega/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/omega/blob/master/repo/zips/repository.fontsvr/repository.fontsvr-2.0.zip?raw=true",
-      "icon": "https://asset.cloudinary.com/dsmvomgrd/e6a7232eff987ab320bc73e0dd029e6b",
+      "icon": "https://imgur.com/38GPcH0.png",
       "adult": false,
       "description": "Skin Wizard VR21 - skin.aeon.nox.silvo.fontsvr-21.0.1  + info: https://github.com/fontsvr/omega/"
     },
@@ -35,7 +35,7 @@
       "repository": "repository.fontsvr",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/omega/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/omega/blob/master/repo/zips/repository.fontsvr/repository.fontsvr-2.0.zip?raw=true",
-      "icon": "https://asset.cloudinary.com/dsmvomgrd/5d429273e1d407723e0ea1ff4076ca9e",
+      "icon": "",
       "adult": false,
       "description": "Skin - skin.aeon.nox.5.fontsvr-21.0.1  + info: https://github.com/fontsvr/omega/"
     },
@@ -48,7 +48,7 @@
       "repository": "repository.rebase",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/omega/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/omega/blob/master/repo/zips/repository.fontsvr/repository.fontsvr-2.0.zip?raw=true",
-      "icon": "https://imgur.com/a/HQxEBrR",
+      "icon": "",
       "adult": false,
       "description": "Skin Wizard - skin.ctouch.fontsvr-9.3.4.3  + info: https://github.com/fontsvr/omega/"
     },
@@ -61,7 +61,7 @@
       "repository": "repository.rebase",
       "repositoryxml": "https://raw.githubusercontent.com/fontsvr/nexus/master/repo/zips/addons.xml",
       "repositoryurl": "https://github.com/fontsvr/nexus/raw/master/repo/zips/repository.rebase/repository.rebase-1.0.zip?raw=true",
-      "icon": "https://asset.cloudinary.com/dsmvomgrd/da8173f9b06ab68af9bd04d4b3c355c1",
+      "icon": "https://imgur.com/lWiTz59.png",
       "adult": false,
       "description": "Skin Wizard - skin.ctouch-9.3.4.3  + info: https://github.com/fontsvr/nexus/"
     }
